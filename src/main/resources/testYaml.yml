@@ -1,0 +1,25 @@
+core: foo
+list:
+    key: value
+children:
+- foo
+- bar
+keyldren:
+-   foo: bar
+    baz: bat
+-   bar: foo
+    bat: baz
+inty: 4
+doubley: 4.5
+booley: true
+intList:
+- 1
+- 3
+doubleList:
+- 1.3
+- 3.5
+boolList:
+- false
+- true
+mapNodeList:
+-   key: value
