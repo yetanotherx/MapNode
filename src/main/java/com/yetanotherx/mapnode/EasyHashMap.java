@@ -12,7 +12,7 @@ import java.util.HashMap;
  */
 public class EasyHashMap<T, U> extends HashMap<T, U> {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 98268764L;
 
     /**
      * Fill in a hashmap with a list of values.
